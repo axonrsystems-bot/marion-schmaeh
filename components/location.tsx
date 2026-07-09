@@ -17,10 +17,9 @@ export default function Location() {
           className="relative h-[38vh] md:h-[46vh] rounded-[24px] overflow-hidden mb-14"
         >
           <AtelierFrame
-            variant="loft"
-            className="w-full h-full"
-            label="Light-filled loft interior in downtown Toronto"
-          />
+  className="w-full h-full"
+  label="Light-filled loft interior in downtown Toronto"
+/>
         </motion.div>
 
         <div className="grid md:grid-cols-2 gap-10 md:gap-16">
